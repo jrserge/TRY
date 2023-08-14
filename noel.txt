@@ -1,1 +1,2 @@
  we are trying git commands
+am ok now and you?
